@@ -1,6 +1,6 @@
 # Tong-hop-chuong
 ## Bài 1: Cơ bản về máy tính và công nghệ thông tin
-Trong môn Nhập môn Công nghệ thông tin, phần "Cơ bản về máy tính và công nghệ thông tin" thường bao gồm các nội dung chính sau:
+### Trong môn Nhập môn Công nghệ thông tin, phần "Cơ bản về máy tính và công nghệ thông tin" thường bao gồm các nội dung chính sau:
 1. Giới thiệu về máy tính
 Định nghĩa: Máy tính là thiết bị điện tử có khả năng xử lý dữ liệu theo các lệnh được lập trình.
 Chức năng: Nhập dữ liệu, xử lý dữ liệu, lưu trữ và xuất dữ liệu.
